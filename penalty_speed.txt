@@ -1,0 +1,46 @@
+License plate: AA13 BBBB Have over: 100.0km/h
+License plate: AA123 ASD Have over: 100.0km/h!
+License plate: BBD99 DDD Have over: 150.0km/h!
+License plate: jj28oop Have over: 200.0km/h!
+License plate: KLA27LLC Have over: 100.0km/h!
+License plate: SD89DDF Have over: 266.6666666666667km/h!
+License plate: BB99 OOOO Have over: 850.0km/h!
+License plate: EE99 NAJ Have over: 292.0km/h!
+License plate: CC98 HDL Have over: 155.66666666666666km/h!
+License plate: BB22 BBB Have over: 148.0km/h!
+License plate: BB33 BBB Have over: 118.66666666666667km/h!
+License plate: BB2 ASD Have over: 444.0km/h!
+License plate: XY77 IOK Have over: 222.0km/h!
+License plate: YY88OKM Have over: 84.375km/h!
+License plate: JK89EWR Have over: 224.66666666666666km/h!
+License plate: NM98 SAFD Have over: 415.5km/h!
+License plate: MN77 ERW Have over: 499.0km/h!
+License plate: SS32VBF Have over: 185.0km/h!
+License plate: BV65 JSK Have over: 221.5km/h!
+License plate: BN32KKK Have over: 123.0km/h!
+License plate: BN12OOK Have over: 61.5km/h!
+License plate: BN21IKL Have over: 113.66666666666667km/h!
+License plate: BN67 JKL Have over: 150.0km/h!
+License plate: OK89DDF Have over: 320.0km/h!
+License plate: DD44 DDD Have over: 342.0km/h!
+License plate: DD44DDD Have over: 172.5km/h!
+License plate: AA11 AAA Have over: 150.0km/h!
+License plate: AA11 AAA Have over: 339.0km/h!
+License plate: AA11AAA Have over: 493.5km/h!
+License plate: CC33 CCC Have over: 3287.0km/h!
+License plate: BN342KJL Have over: 234.0km/h!
+License plate: AA11 AAA Have over: 429.5km/h!
+License plate: BB22 CCC Have over: 341.0km/h!
+License plate: DD44 DDD Have over: 555.0km/h!
+License plate: AA11 AAA Have over: 332.0km/h!
+License plate: AA11 AAA Have over: 542.0km/h!
+License plate: AA11 AAA Have over: 106.5km/h!
+License plate: AA11 AAA Have over: 213.0km/h!
+License plate: AA11 AAA Have over: 138.75km/h!
+License plate: AA11 AAA Have over: 444.0km/h!
+License plate: AA11 AAA Have over: 333.0km/h!
+License plate: BB22 BBB Have over: 499.5km/h!
+License plate: BB22 BBB Have over: 222.0km/h!
+License plate: AA11 AAA Have over: 543.0km/h!
+License plate: AA11 AAA Have over: 333.0km/h!
+License plate: DD44 DDD Have over: 111.0km/h!
